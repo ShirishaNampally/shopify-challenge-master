@@ -202,15 +202,3 @@ We'd love to have your helping hand on `create-react-app`! See [CONTRIBUTING.md]
 Create React App is a community maintained project and all contributors are volunteers. If you'd like to support the future development of Create React App then please consider donating to our [Open Collective](https://opencollective.com/create-react-app).
 
 Thanks to [Netlify](https://www.netlify.com/) for hosting our documentation.
-
-## Acknowledgements
-
-We are grateful to the authors of existing related projects for their ideas and collaboration:
-
-- [@eanplatter](https://github.com/eanplatter)
-- [@insin](https://github.com/insin)
-- [@mxstbr](https://github.com/mxstbr)
-
-## License
-
-Create React App is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/master/LICENSE). The Create React App logo is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
