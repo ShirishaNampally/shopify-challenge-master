@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/shopify-challenge-master/static/css/main.8a934eff.chunk.css",
+    "main.js": "/shopify-challenge-master/static/js/main.009054cb.chunk.js",
+    "main.js.map": "/shopify-challenge-master/static/js/main.009054cb.chunk.js.map",
+    "runtime-main.js": "/shopify-challenge-master/static/js/runtime-main.9662c06e.js",
+    "runtime-main.js.map": "/shopify-challenge-master/static/js/runtime-main.9662c06e.js.map",
+    "static/css/2.d34346ea.chunk.css": "/shopify-challenge-master/static/css/2.d34346ea.chunk.css",
+    "static/js/2.5f6dddc2.chunk.js": "/shopify-challenge-master/static/js/2.5f6dddc2.chunk.js",
+    "static/js/2.5f6dddc2.chunk.js.map": "/shopify-challenge-master/static/js/2.5f6dddc2.chunk.js.map",
+    "index.html": "/shopify-challenge-master/index.html",
+    "precache-manifest.b22768be6cc99cf34453f1cff359e7e8.js": "/shopify-challenge-master/precache-manifest.b22768be6cc99cf34453f1cff359e7e8.js",
+    "service-worker.js": "/shopify-challenge-master/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/shopify-challenge-master/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.8a934eff.chunk.css.map": "/shopify-challenge-master/static/css/main.8a934eff.chunk.css.map",
+    "static/js/2.5f6dddc2.chunk.js.LICENSE.txt": "/shopify-challenge-master/static/js/2.5f6dddc2.chunk.js.LICENSE.txt",
+    "static/media/back.svg": "/shopify-challenge-master/static/media/back.c2e4f1c0.svg",
+    "static/media/cross.svg": "/shopify-challenge-master/static/media/cross.d79a8310.svg",
+    "static/media/error.svg": "/shopify-challenge-master/static/media/error.6315845c.svg",
+    "static/media/minus.svg": "/shopify-challenge-master/static/media/minus.f448ccd7.svg",
+    "static/media/plus.svg": "/shopify-challenge-master/static/media/plus.1c7775bf.svg",
+    "static/media/search.svg": "/shopify-challenge-master/static/media/search.35e7ec75.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9662c06e.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.5f6dddc2.chunk.js",
+    "static/css/main.8a934eff.chunk.css",
+    "static/js/main.009054cb.chunk.js"
+  ]
+}
